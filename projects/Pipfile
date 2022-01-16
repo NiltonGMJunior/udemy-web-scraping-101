@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 lxml = "*"
 cssselect = "*"
+requests = "*"
+click = "*"
 
 [dev-packages]
 pylint = "*"
