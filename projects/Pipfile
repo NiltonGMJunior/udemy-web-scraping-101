@@ -9,6 +9,7 @@ cssselect = "*"
 requests = "*"
 click = "*"
 pymongo = "*"
+fake-useragent = "*"
 
 [dev-packages]
 pylint = "*"
