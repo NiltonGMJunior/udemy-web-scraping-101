@@ -10,6 +10,7 @@ requests = "*"
 click = "*"
 pymongo = "*"
 fake-useragent = "*"
+w3lib = "*"
 
 [dev-packages]
 pylint = "*"
